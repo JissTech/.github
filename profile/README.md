@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 We are just here to change the world.
@@ -10,4 +10,3 @@ We are looking to better how people communicate on a day to day basis.
 We are closed source communication app
 🍿 Fun facts - what does your team eat for breakfast?
 Code
--->
